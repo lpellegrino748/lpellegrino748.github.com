@@ -67,12 +67,16 @@ h2 {
 .logo {
 	width: 81px;
 	height:108px;
-	border-bottom: 1px solid #c0c0c0;
-	text-align: center;
+	float: center;
 }
 
 #nav {
+  width: 460px;
   float: center;
+  font-weight: bold;
+  border-top: 1px solid #c0c0c0;
+  margin-top: 21px;
+
 }
 
 #nav ul {
@@ -84,9 +88,22 @@ h2 {
     font-weight: normal;
     line-height: 100px;
     text-align: center;
+  	display:inline-block;
   }
 
-  #nav ul li.active a {
+
+  #nav ul li.active  {
     color: #e03d4e !important;
-    font-weight: bold;
+    
   }
+
+.view {
+	color: #e03d4e;
+}
+
+
+
+
+
+
+
