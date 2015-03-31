@@ -68,4 +68,25 @@ h2 {
 	width: 81px;
 	height:108px;
 	border-bottom: 1px solid #c0c0c0;
+	text-align: center;
 }
+
+#nav {
+  float: center;
+}
+
+#nav ul {
+  list-style-type: none;
+}
+
+  #nav ul li {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 100px;
+    text-align: center;
+  }
+
+  #nav ul li.active a {
+    color: #e03d4e !important;
+    font-weight: bold;
+  }
