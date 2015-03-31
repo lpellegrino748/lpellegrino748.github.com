@@ -14,13 +14,13 @@ body {
 	height: 270px;
 	background: #f0f0f0 repeat; margin: 0 auto;
 	padding: 25px 50px 0 50px;
-
+	border-bottom: 5px solid #e03d4e
 }
 
 .vestibulum {
 	margin-left: 260px;
 	margin-right: 260px;
-	
+
 }
 
 .bottem_wrapper {
