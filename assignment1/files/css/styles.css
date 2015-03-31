@@ -30,9 +30,10 @@ header {
 
 .bottem_wrapper {
 	border-top: 2px solid #e03d4e;
-	color: #222222;
+	background-color: #222222;
 	margin-top: 52px;
 	margin-bottom: 52px;
+	height: 196px;
 }
 
 h2 {
