@@ -23,5 +23,26 @@ body {
 }
 
 .bottem_wrapper {
-	color: #222222
+	width: 1400px;
+	height: 200px;
+	color: #222222;
+
+}
+
+.product1 {
+	width: 300px;
+	height: 40px;
+	text-align: left;
+}
+
+.product2 {
+	width: 300px;
+	height: 40px;
+	text-align: center;
+}
+
+.product3 {
+	width: 300px;
+	height: 40px;
+	text-align: right;
 }
