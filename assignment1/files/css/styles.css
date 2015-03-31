@@ -14,7 +14,8 @@ body {
 	height: 270px;
 	background: #f0f0f0 repeat; margin: 0 auto;
 	padding: 25px 50px 0 50px;
-
+	margin-left: 260px;
+	margin-right: 260px;
 }
 
 .vestibulum {
@@ -25,24 +26,6 @@ body {
 .bottem_wrapper {
 	color: #222222;
 
-}
-
-.product1 {
-	width: 300px;
-	height: 40px;
-	text-align: left;
-}
-
-.product2 {
-	width: 300px;
-	height: 40px;
-	text-align: center;
-}
-
-.product3 {
-	width: 300px;
-	height: 40px;
-	text-align: right;
 }
 
 h2 {
