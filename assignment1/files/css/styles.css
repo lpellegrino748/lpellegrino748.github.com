@@ -11,7 +11,7 @@ body {
 }
 
 header {
-	border-bottom: 5px solid #e03d4e;
+	border-bottom: 2px solid #e03d4e;
 
 }
 .wrapper {
@@ -29,7 +29,7 @@ header {
 }
 
 .bottem_wrapper {
-	border-top: 5px solid #e03d4e;
+	border-top: 2px solid #e03d4e;
 	color: #222222;
 	margin-top: 52px;
 	margin-bottom: 52px;
@@ -44,4 +44,16 @@ h2 {
 	width: 940px;
 	height: 400px;
 	text-align: center;
+}
+
+.product3,
+.product2,
+.product1 {
+	width: 32%;
+	float: center;
+
+}
+
+.product1 {
+	margin-right: 2%;
 }
