@@ -5,7 +5,6 @@ body {
 	background-color: #ffffff; 
 	margin-top: 50px; 
 	padding: 0; 
-	color :#323232;
 	text-align: center;
 
 }
@@ -17,7 +16,7 @@ header {
 .wrapper {
 	width: 1400px;
 	height: 270px;
-	background: #f0f0f0 repeat; margin: 0 auto;
+	background-color: #f0f0f0;
 	padding: 25px 50px 0 50px;
 
 }
@@ -39,6 +38,7 @@ header {
 	height: 80px;
 	margin-top: 52px;
 	margin-bottom: 52px;
+	text-align: center;
 }
 
 
@@ -63,4 +63,10 @@ h2 {
 
 .product1 {
 	margin-right: 2%;
+}
+
+.logo {
+	width: 81px;
+	height:108px;
+	border-bottom: 1px solid #c0c0c0;
 }
