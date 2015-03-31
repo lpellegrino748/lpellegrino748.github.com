@@ -3,18 +3,23 @@
 body {
 	font-family: Helvetica, sans-serif;
 	background-color: #ffffff; 
-	margin: 0; 
+	margin-top: 50px; 
 	padding: 0; 
 	color :#323232;
 	text-align: center;
+
 }
 
+header {
+	border-bottom: 5px solid #e03d4e;
+
+}
 .wrapper {
 	width: 1400px;
 	height: 270px;
 	background: #f0f0f0 repeat; margin: 0 auto;
 	padding: 25px 50px 0 50px;
-	border-bottom: 5px solid #e03d4e
+
 }
 
 .vestibulum {
@@ -24,8 +29,10 @@ body {
 }
 
 .bottem_wrapper {
+	border-top: 5px solid #e03d4e;
 	color: #222222;
-
+	margin-top: 52px;
+	margin-bottom: 52px;
 }
 
 h2 {
@@ -33,6 +40,7 @@ h2 {
 }
 
 .desk {
+	margin-top: 52px;
 	width: 940px;
 	height: 400px;
 }
