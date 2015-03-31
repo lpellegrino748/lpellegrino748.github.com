@@ -4,8 +4,7 @@ body {
 	height: 1300px;
 	font-family: Helvetica, sans-serif;
 	background-color: #ffffff; 
-	margin-top: 50px; 
-	padding: 0; 
+	margin-top: 30px;  
 	text-align: center;
 
 }
@@ -17,8 +16,12 @@ header {
 .wrapper {
 	width: 47%;
 	background-color: #f0f0f0;
-	padding: 25px 50px 0 25px;
+	
 
+}
+
+.topper {
+	padding-bottom: 51px;
 }
 
 .vestibulum {
@@ -27,7 +30,7 @@ header {
 	height: 51px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 60px;
+	padding-bottom: 30px;
 }
 
 .bottem_wrapper {
@@ -56,7 +59,7 @@ h4 {
 	margin-left: auto;
     margin-right: auto;
     padding-top: 42px;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .desk {
@@ -108,7 +111,8 @@ h4 {
     font-weight: normal;
     line-height: 100px;
   	display:inline-block;
-  	
+  	padding-left: 
+  	padding
  
   }
 
@@ -123,9 +127,7 @@ h4 {
 	font-weight: bold;
 }
 
-.topper {
-	padding-bottom: 100px;
-}
+
 
 
 
