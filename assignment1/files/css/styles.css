@@ -11,11 +11,13 @@ body {
 
 header {
 	border-bottom: 2px solid #e03d4e;
-
+	background-color: #f0f0f0;
+	height: 260px;
+	padding-top: 45px;
 }
 .wrapper {
 	width: 47%;
-	background-color: #f0f0f0;
+	
 	
 
 }
@@ -88,18 +90,20 @@ h4 {
 .logo {
 	height:218px;
 	float: center;
-	margin-bottom: 46px;
 	text-align: center;
 }
 
 #nav {
   width: 35%;
+  height: 41px;
   font-size: 9px;
   font-weight: bolder;
   border-top: 1px solid #c0c0c0;
   margin-left: auto;
   margin-right: auto;
-
+  margin-top: 50px;
+  text-align: center;
+  padding-bottom: 20px;
 }
 
 #nav ul {
@@ -111,9 +115,9 @@ h4 {
     font-weight: normal;
     line-height: 100px;
   	display:inline-block;
-  	padding-left: 
-  	padding
- 
+ 	padding-left: 31px;
+ 	padding-right: 31px;
+ 	
   }
 
 
@@ -125,9 +129,14 @@ h4 {
 .view {
 	color: #e03d4e;
 	font-weight: bold;
+	text-align: center;
 }
 
+.slides {
+	float: right;
+	margin-right: 20px;
 
+}
 
 
 
